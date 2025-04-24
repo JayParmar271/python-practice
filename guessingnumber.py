@@ -1,3 +1,5 @@
+import random
+
 def numberGuessingGame():
     computerguess = random.randint(1,100)
     myguessnumber = 0

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a718dc-aead-403e-8bc9-f5d6f19acf8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64a718dc-aead-403e-8bc9-f5d6f19acf8e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
     "Python.max.executor": "Run",
     "Python.min number.executor": "Run",
     "Python.multiplication of two numbe.executor": "Run",
+    "Python.multiplication_of_two_numbers.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.prime_number.executor": "Run",
     "Python.sum.executor": "Run",

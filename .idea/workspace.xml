@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64a718dc-aead-403e-8bc9-f5d6f19acf8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessingnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessingnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compound interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of 1 to10 numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dicesgametournament.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/given number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intrest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiplication of two numbe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.guessingnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jay/Desktop/Python practice&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Compound interest.executor": "Run",
+    "Python.Sum of 1 to10 numbers.executor": "Run",
+    "Python.average numbers.executor": "Run",
+    "Python.dice.executor": "Run",
+    "Python.dicesgametournament.executor": "Run",
+    "Python.given number.executor": "Run",
+    "Python.guessingnumber.executor": "Run",
+    "Python.intrest.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.max.executor": "Run",
+    "Python.min number.executor": "Run",
+    "Python.multiplication of two numbe.executor": "Run",
+    "Python.pattern.executor": "Run",
+    "Python.prime_number.executor": "Run",
+    "Python.sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/jay/Desktop/Python practice"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>

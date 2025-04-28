@@ -4,6 +4,7 @@ def numberGuessingGame():
     computerguess = random.randint(1,100)
     myguessnumber = 0
     totalAttempt = 0
+    
     while computerguess != myguessnumber:
         myguessnumber = int(input("enter number\n"))
         if myguessnumber < computerguess:
